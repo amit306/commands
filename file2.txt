@@ -2,4 +2,5 @@
 this is file2.txt and no merge
 
 this is file2.txt and testing merge
-
+ checking amend:wq
+ checking amend2
